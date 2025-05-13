@@ -78,10 +78,7 @@ const Navbar = () => {
         data-aos="fade-up"
       >
         <div className="flex justify-around items-center text-white p-7">
-          <ul
-            className="flex space-x-10 items-center font-semibold text-sm"
-            data-aos-anchor-placement="top-bottom"
-          >
+          <ul className="flex space-x-10 items-center font-semibold text-sm" data-aos-anchor-placement="top-bottom">
             <li>
               <NavLink to="/" className={navLinkClass}>
                 Home

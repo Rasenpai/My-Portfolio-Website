@@ -163,6 +163,29 @@ const Home = () => {
                       </svg>
                       <span className="font-medium">@hyrasena</span>
                     </a>
+
+                    <a
+                      href="https://www.linkedin.com/in/rasenaa-8786ba362/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-3 bg-gradient-to-r from-blue-800 to-blue-600 hover:from-blue-700 hover:to-blue-500 p-3 rounded-lg transition-all duration-300"
+                    >
+                      <svg
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      >
+                        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
+                        <rect width="4" height="12" x="2" y="9" />
+                        <circle cx="4" cy="4" r="2" />
+                      </svg>
+                      <span className="font-medium">Rasena</span>
+                    </a>
                   </div>
                 </div>
 
