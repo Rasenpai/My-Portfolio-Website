@@ -77,7 +77,7 @@ const Project = () => {
                 </p>
                 <div className="text-right mt-5">
                   <a
-                    href=""
+                    href="https://my-portfolio-website-fawn-six.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-yellow-300 hover:underline"
